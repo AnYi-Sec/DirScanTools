@@ -6,6 +6,6 @@
 
 自带数十种User-agent请求头，可实时更换防止WAF拦截
 
-![home](C:\Users\17792\Desktop\DirScanTools\home.png)
+![home](https://github.com/AnYi-Sec/DirScanTools/blob/main/home.png)
 
 采用HEAD请求模式，速度更快，结果更准确。
